@@ -5,9 +5,11 @@
 
 ## panic moment, but finally working fine in my local 😅
 
-### evidence results :
+### Results :
 
 https://github.com/user-attachments/assets/1055402b-f7ed-4663-b8eb-69ed18bbb00a
+
+the main problem is i dont understand how to run ng via local, then found issue with node version but everything working fine
 
 ### update with new node version to run ng
 
